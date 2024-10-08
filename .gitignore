@@ -1,0 +1,7 @@
+/.vscode/
+/.idea/
+/UniFi Network Application tests.zip
+/demo/target/classes/
+/demo/target/generated-sources/
+/demo/target/generated-test-sources/
+/demo/target/test-classes/
